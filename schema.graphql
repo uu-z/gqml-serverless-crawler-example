@@ -1,0 +1,5 @@
+scalar JSON
+
+type Query {
+  yjs(start: Int, end: Int): JSON!
+}

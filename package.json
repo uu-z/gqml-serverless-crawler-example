@@ -1,0 +1,23 @@
+{
+  "name": "my-new-project",
+  "version": "1.0.0",
+  "description": "This is a boilerplate of an Apify actor.",
+  "main": "main.js",
+  "dependencies": {
+    "@types/lodash": "^4.14.120",
+    "apify": "^0.11.0",
+    "gqml": "^0.2.6",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": ""
+}
